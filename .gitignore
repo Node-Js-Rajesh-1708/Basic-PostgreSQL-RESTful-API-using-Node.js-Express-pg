@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Lock file
+package-lock.json
+
+# Documentation (optional)
+ERROR_HANDLING_VALIDATION_GUIDE.md
